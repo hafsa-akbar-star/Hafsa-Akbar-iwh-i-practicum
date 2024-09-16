@@ -11,7 +11,6 @@ app.use(express.json());
 const PRIVATE_APP_ACCESS = '';
 
 
-
 // TODO: ROUTE 1 - Create a new app.get route for the homepage to call your custom object data. Pass this data along to the front-end and create a new pug template in the views folder.
 
 // * Code for Route 1 goes here
